@@ -1,6 +1,7 @@
 asgiref==3.7.2
-Django==4.2.1
+Django==3.2.10  # Latest LTS version compatible with Python 3.9
 django-ckeditor==6.7.0
 django-js-asset==2.2.0
 pillow==10.2.0
 sqlparse==0.4.4
+
